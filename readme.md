@@ -1,6 +1,6 @@
 ## ** PRODUCER - CONSUMER CONCURRENT PROBLEM IN ADA WITH USE OF MONITORED SHARED RESOURCE **
 
-# Written on 13th of May 2023 by Piotr M. Garczyński
+### Written on 13th of May 2023 by Piotr M. Garczyński
 
 Producers generate random Integer numbers and put them to monitored protected 
 shared resource (queue or stack) while consumers read them from it. 
